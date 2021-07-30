@@ -201,16 +201,16 @@ a {
   background-position: center;
 }
 .main-content__box-yellow {
-  background-image: url(/dist/images/desktop/image-transform.jpg);
+  background-image: url(../images/desktop/image-transform.jpg);
 }
 .main-content__box-pink {
-  background-image: url(/dist/images/desktop/image-stand-out.jpg);
+  background-image: url(../images/desktop/image-stand-out.jpg);
 }
 .main-content__text-box--cyan {
-  background-image: url(/dist/images/desktop/image-graphic-design.jpg);
+  background-image: url(../images/desktop/image-graphic-design.jpg);
 }
 .main-content__text-box--blue {
-  background-image: url(/dist/images/desktop/image-photography.jpg);
+  background-image: url(../images/desktop/image-photography.jpg);
 }
 .main-content__text-box {
   background-position: top;
