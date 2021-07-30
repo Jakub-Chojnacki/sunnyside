@@ -21,7 +21,7 @@ a {
 
 .page-header {
   max-width: 100vw;
-  background-image: url("dist/images/desktop/image-header.jpg");
+  background-image: url("images/desktop/image-header.jpg");
   background-size: cover;
   background-position: center;
   overflow: hidden;
