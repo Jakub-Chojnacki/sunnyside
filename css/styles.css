@@ -270,6 +270,9 @@ a {
   background: #fad400;
 }
 @media only screen and (min-width: 1000px) {
+  .page-header__cta-text{
+    font-size: 4em;
+  }
   .main-content {
     grid-template-areas: "text-yellow box-yellow" "box-pink text-pink" "box-cyan box-blue";
     grid-template-rows: repeat(3, 1fr);
